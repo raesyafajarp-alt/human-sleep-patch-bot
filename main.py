@@ -8,9 +8,8 @@ fixed, to /output/entry.txt (the file the judge reads).
 import os
 
 ENTRY = (
-    "Fixed: falling asleep no longer requires 45 minutes of "
-    "ceiling-staring and one (1) existential crisis. "
-    "Sleep now installs in 8 minutes, no restart required."
+    "Fixed: falling asleep no longer hangs at 99% while your brain "
+    "replays every embarrassing thing you said in 2011."
 )
 
 
